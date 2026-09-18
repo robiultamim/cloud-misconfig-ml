@@ -40,11 +40,7 @@ python scripts/run_pipeline.py --input data/raw/kubernetes/ --limit 5
 
 ---
 
-## 📊 Interactive Jupyter Notebook
-To see all experimental details, data visualizations, and step-by-step pipeline evaluations:
-```bash
-jupyter notebook notebooks/cloud_misconfig_experiments.ipynb
-```
+##
 
 ---
 
