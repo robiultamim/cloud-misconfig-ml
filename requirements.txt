@@ -1,0 +1,35 @@
+# ─── Core ML ────────────────────────────────────────────────────────────────
+torch==2.3.0
+torch-geometric==2.5.3
+scikit-learn==1.5.0
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+
+# ─── NLP / Transformers ──────────────────────────────────────────────────────
+transformers==4.41.2
+datasets==2.19.1
+sentence-transformers==3.0.1
+tokenizers==0.19.1
+
+# ─── Cloud Config Parsing ────────────────────────────────────────────────────
+PyYAML==6.0.1
+jsonschema==4.22.0
+
+# ─── Explainability ──────────────────────────────────────────────────────────
+shap==0.45.1
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# ─── LLM Clients ─────────────────────────────────────────────────────────────
+openai==1.30.5
+google-generativeai==0.7.2
+
+# ─── Experiment Tracking ─────────────────────────────────────────────────────
+mlflow==2.13.2
+
+# ─── API / Utilities ─────────────────────────────────────────────────────────
+requests==2.32.3
+tqdm==4.66.4
+python-dotenv==1.0.1
+joblib==1.4.2
