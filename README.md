@@ -10,7 +10,7 @@ You can run an audit on sample manifests immediately without setting up API keys
 ### 1. Clone & Set Up Environment
 ```bash
 # Clone the repository
-git clone https://github.com/robiul-tamim/cloud-misconfig-ml.git
+git clone [https://github.com/robiul-tamim/cloud-misconfig-ml.git](https://github.com/robiultamim/cloud-misconfig-ml.git)
 cd cloud-misconfig-ml
 
 # Create virtual environment (Python 3.10+ recommended)
